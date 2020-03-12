@@ -1,6 +1,6 @@
 # Overview
-* Twitter - largest microblogging website in the world - 330 million global users
-* Content is mostly unrestricted
+* Twitter - largest microblogging website in the world - 330 million global users.
+* Content is mostly unrestricted.
 * The Supreme Court has never created any category of speech that is defined by its hateful conduct.
 
 * Hate speech is defined as abusive or threatening speech that expresses prejudice against a particular group, especially on the basis of race, religion, or sexual orientation.
